@@ -74,4 +74,13 @@ a {
   font-size: 1.25rem;
 }
 
+.success {
+  color: #fff;
+  background-color: #12491e;
+  margin-top: 2rem;
+  padding: 1rem;
+  font-size: 1.35rem;
+  font-weight: 700;
+}
+
 
